@@ -7,7 +7,7 @@ end
 
 
 
-#or, alter the value of words to an array of strings
+# or, alter the value of words to an array of strings
 
 # words = ['car', 'human', 'elephant', 'airplane']
 

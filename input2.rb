@@ -1,5 +1,5 @@
 
-PASSWORD = "patience"  #invoking the constant   PASSWORD with a value of the string 'patience'
+PASSWORD = "patience" #creating the constant   PASSWORD with a value of the string 'patience'
 
 loop do   # invoking a loop to iterate through our block until the user inputs the correct password
   puts ">> Please enter your password:" # prompts user for password
